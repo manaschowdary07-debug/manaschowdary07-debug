@@ -17,10 +17,6 @@ Python, SQL, Tableau, Pandas, NumPy, MySQL, MongoDB, Data Visualization, Data Cl
 ## Run
 Open `index.html` in a browser or serve the folder with any static web server.
 
-## Personalize
-Replace `your-email@example.com` in `index.html` with your professional email before deployment.
-
-
 ## LinkedIn
 
 https://www.linkedin.com/in/sai-venkata-manas-patruni-a25abb428
