@@ -14,8 +14,9 @@ Python, SQL, Tableau, Pandas, NumPy, MySQL, MongoDB, Data Visualization, Data Cl
 - Tableau GitHub Repository — https://github.com/manaschowdary07-debug/tableau-analytics-dashboard
 - Hyderabad Volunteer Portal — https://github.com/manaschowdary07-debug/Hyderabad-volunteer-portal-main
 
-## Run
-Open `index.html` in a browser or serve the folder with any static web server.
+## Portfolio link
+
+https://manaschowdary07-debug.vercel.app
 
 ## LinkedIn
 
