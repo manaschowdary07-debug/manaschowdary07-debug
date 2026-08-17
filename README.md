@@ -1,6 +1,6 @@
 # Sai Venkata Manas Patruni — Portfolio
 
-A premium, Apple-inspired personal portfolio for **Patruni Sai Venkata Manas (Manas Chowdary)**, a B.Tech Information Technology student at **MVGR College of Engineering (MVGR)**.
+A personal portfolio for **Patruni Sai Venkata Manas (Manas Chowdary)**, a B.Tech Information Technology student at **MVGR College of Engineering (MVGR)**.
 
 ## Education
 - B.Tech — Information Technology
